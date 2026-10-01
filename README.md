@@ -7,12 +7,12 @@ is pasted into whatever app you're in. **⇧⌥⌘V** shows the last 5 files to 
 
 **Homebrew (recommended)**
 ```
-brew install --cask YOUR_USER/tap/lastfile
+brew install --cask Vascoooo1283/tap/lastfile
 ```
 
 **No Homebrew? One-line installer**
 ```
-curl -fsSL https://raw.githubusercontent.com/YOUR_USER/LastFile/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Vascoooo1283/LastFile/main/install.sh | bash
 ```
 
 Both avoid the macOS "can't be opened" warning. Then grant **Accessibility** permission when
